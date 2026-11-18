@@ -1,0 +1,6 @@
+{
+  "name": "Maison Rosé & Co. — Luxury 3D Furniture Showroom",
+  "description": "Ultra-luxury architectural furniture showroom featuring interactive 3D craftsmanship inspection, bespoke photorealistic material customization, and high-resolution interior visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
